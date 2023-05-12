@@ -1,0 +1,5 @@
+----------------------------------------
+06-05-2023 20:08:15
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Business_Layer.repository.ProductService.AddProduct(ProductDto productDto) in D:\training\backup\updated-vuex-crud\copy\FinalProjectT\Crud_Backend\Business_Layer\Services\ProductService.cs:line 48
+   at Crud_Product_Backend.Controllers.ProductController.AddProductAsync(ProductDto productDto) in D:\training\backup\updated-vuex-crud\copy\FinalProjectT\Crud_Backend\Crud_Product_Backend\Controllers\ProductController.cs:line 94

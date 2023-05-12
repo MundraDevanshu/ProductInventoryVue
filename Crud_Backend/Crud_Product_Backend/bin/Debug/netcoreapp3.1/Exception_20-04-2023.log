@@ -1,0 +1,4 @@
+----------------------------------------
+20-04-2023 13:55:55
+System.Exception: hii
+   at Crud_Product_Backend.Controllers.ProductController.GetProductByIdAsync(Int32 id) in D:\training\Crud_Backend\Crud_Product_Backend\Controllers\ProductController.cs:line 77

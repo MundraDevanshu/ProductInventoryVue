@@ -1,0 +1,6 @@
+----------------------------------------
+26-04-2023 12:29:27
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Business_Layer.Dto.ProductExtensions.MapToProductDto(Product product) in D:\training\Crud_Backend\Business_Layer\Dto\ProductExtensions.cs:line 12
+   at Business_Layer.repository.ProductService.GetProductById(Int32 id) in D:\training\Crud_Backend\Business_Layer\repository\ProductService.cs:line 31
+   at Crud_Product_Backend.Controllers.ProductController.DeleteProductAsync(Int32 id) in D:\training\Crud_Backend\Crud_Product_Backend\Controllers\ProductController.cs:line 132
